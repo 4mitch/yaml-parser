@@ -1,0 +1,7 @@
+title: $:/plugins/4mitch/yaml-parser/readme
+
+This is a TiddlyWiki plugin for parsing Markdown text, based on the [[js-yaml|https://github.com/tj/js-yaml]] project from TJ Holowaychuk <tj@vision-media.ca> on npm. 
+
+It is completely self-contained, and doesn't need an Internet connection in order to work. It works both in the browser and under Node.js.
+
+[[Source code|https://github.com/4mitch/yaml-parser]]

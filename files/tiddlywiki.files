@@ -1,0 +1,29 @@
+{
+	"tiddlers": [
+		{
+			"file": "yaml.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/4mitch/yaml-parser/yaml.js",
+				"module-type": "library"
+			}
+		},
+		{
+			"file": "js-yaml.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/4mitch/yaml-parser/js-yaml.js",
+				"module-type": "library"
+			}
+		},
+		{
+			"file": "js-yaml.min.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/4mitch/yaml-parser/js-yaml.min.js",
+				"module-type": "library"
+			}
+		}
+   		
+	]
+}
